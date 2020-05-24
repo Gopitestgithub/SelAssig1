@@ -4,7 +4,7 @@
 
   <test thread-count="5" name="Test">
     <classes>
-      <class name="SDETSelenium.Assignment1.TestScenarios"/>
+      <class name="SDETSelenium.Assignment1.Scenarios_Test"/>
     </classes>
   </test> <!-- Test -->
   	<listeners>
